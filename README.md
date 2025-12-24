@@ -22,7 +22,7 @@ focusing on clean UI, performance, and maintainability.
 - Developing scalable applications using **React & Next.js**
 - Working with **micro-frontend architecture**
 - Improving performance, accessibility, and UI consistency
-- Collaborating with backend & DevOps teams
+- Get knowledge regarding Analysis tools
 
 ---
 
