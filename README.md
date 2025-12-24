@@ -1,16 +1,108 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Harsh Vaddoriya</h1>
+<h3 align="center">
+Frontend Engineer | React • Next.js • Micro-Frontend
+</h3>
 
+<p align="center">
+I build scalable, high-performance web applications with modern JavaScript frameworks,
+focusing on clean UI, performance, and maintainability.
+</p>
 
-**harshvaddoriya/harshvaddoriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshvaddoriya&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on Frontend Development
-- 🌱 I’m currently learning Full Stack Development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📊 GitHub Analysis
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshvaddoriya&theme=github_dark" />
+</p>
+
+---
+
+## 💼 Experience
+
+**Frontend Engineer — DGM Tech Company**  
+📍 India | 🗓 2024 – Present
+
+- Developing scalable applications using **React & Next.js**
+- Working with **micro-frontend architecture**
+- Improving performance, accessibility, and UI consistency
+- Collaborating with backend & DevOps teams
+
+---
+
+## ⚒️ Tech Stack
+
+### Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,html,css,tailwind,sass,bootstrap" />
+</p>
+
+### Backend & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,php,python,postman,cloudinary" />
+</p>
+
+### DevOps & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,figma" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+---
+
+## 🚀 Deployment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,render,railway" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 GradeXResult
+- Role-based result management system
+- PDF generation & email automation
+- Tech: **Next.js, React, MongoDB**
+
+🔗 Portfolio: https://harsh-vaddoriya-portfolio.vercel.app/
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshvaddoriya&theme=github-compact" />
+</p>
+
+---
+
+## ⚡ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshvaddoriya&show_icons=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvaddoriya&layout=compact" height="165"/>
+</p>
+
+---
+
+## 🔗 Links
+
+- 🌐 Portfolio: https://harsh-vaddoriya-portfolio.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/harsh-vaddoriya/
+- 📧 Email: harshvaddoriya0319@gmail.com
+
+<p align="center">
+<i>“Clean code, scalable systems, and meaningful user experiences.”</i>
+</p>
