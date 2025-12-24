@@ -14,14 +14,6 @@ focusing on clean UI, performance, and maintainability.
 
 ---
 
-## 📊 GitHub Analysis
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshvaddoriya&theme=github_dark" />
-</p>
-
----
-
 ## 💼 Experience
 
 **Frontend Engineer — DGM Tech Company**  
@@ -38,12 +30,12 @@ focusing on clean UI, performance, and maintainability.
 
 ### Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,html,css,tailwind,sass,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,bootstrap,tailwind,sass" />
 </p>
 
 ### Backend & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,php,python,postman,cloudinary" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,postman,cloudinary" />
 </p>
 
 ### DevOps & Platforms
@@ -64,7 +56,7 @@ focusing on clean UI, performance, and maintainability.
 ## 🚀 Deployment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,render,railway" />
+  <img src="https://skillicons.dev/icons?i=vercel" />
 </p>
 
 ---
@@ -80,6 +72,7 @@ focusing on clean UI, performance, and maintainability.
 
 ---
 
+<!--
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -87,12 +80,13 @@ focusing on clean UI, performance, and maintainability.
 </p>
 
 ---
+-->
 
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshvaddoriya&show_icons=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvaddoriya&layout=compact" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshvaddoriya&theme=github_dark" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshvaddoriya&theme=github_dark" height="165" />
 </p>
 
 ---
