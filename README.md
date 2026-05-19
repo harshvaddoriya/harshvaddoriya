@@ -93,7 +93,7 @@ focusing on clean UI, performance, and maintainability.
 
 ## 🔗 Links
 
-- 🌐 Portfolio: https://harsh-vaddoriya-portfolio.vercel.app/
+- 🌐 Portfolio: https://harshvaddoriya.vercel.app/
 - 💼 LinkedIn: https://www.linkedin.com/in/harsh-vaddoriya/
 - 📧 Email: harshvaddoriya0319@gmail.com
 
